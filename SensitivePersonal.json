@@ -1,0 +1,24 @@
+{
+    "flags": "-iE",
+    "patterns": [
+    "ssn=",
+    "social_security_number=",
+    "tax_id=",
+    "dob=",
+    "date_of_birth=",
+    "driver_license=",
+    "driver_licence=",
+    "dl_number=",
+    "passport_number=",
+    "passport_no=",
+    "aadhaar=",
+    "aadhaar_number=",
+    "pan=",
+    "pan_number=",
+    "national_id=",
+    "identity_number=",
+    "id_number=",
+    "id_no=",
+    "govt_id=",
+    ]
+}
