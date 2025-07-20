@@ -50,7 +50,6 @@
     "TENCENTCLOUD_SECRET_ID=['\"][A-Z0-9]{20}['\"]",
     "BAIDU_API_KEY=['\"][A-Za-z0-9]{32}['\"]",
     "ocid1\\.tenancy\\.oc1\\..*",
-
     "-----BEGIN (RSA|DSA|EC|OPENSSH) PRIVATE KEY-----",
     "-----END (RSA|DSA|EC|OPENSSH) PRIVATE KEY-----",
     ]
